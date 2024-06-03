@@ -5,8 +5,8 @@
 Concevez un tableau de bord qui permet de surveiller les principales métriques liées aux ressources humaines, telles que le taux de rotation du personnel, la satisfaction des employés et les performances individuelles.
 
 ## Source et aperçu des données🚀
-L'ensemble des données des ressources humaines faisant l'objet de notre etude est contitué de plus de 22k lignes.
-Ces données relevent des differentes informations sur les employés de l'entreprise à savoir le nom et le prenom, le genre, la date de naissance, la race, le departement, le post, le type de post, la date d'embauche, la date de fin de contrat et la localité.
+L'ensemble des données des ressources humaines faisant l'objet de notre étude est constitué de plus de 22k lignes.
+Ces données relèvent des différentes informations sur les employés de l'entreprise à savoir le nom et le prénom, le genre, la date de naissance, la race, le département, le post, le type de post, la date d'embauche, la date de fin de contrat et la localité.
 
 ## Problèmes constatés dans les données ⚡
 Lors de l'exploration et de l'analyse initiales de l'ensemble des données des ressources humaines, plusieurs problèmes ont été identifiés :
@@ -17,14 +17,15 @@ Lors de l'exploration et de l'analyse initiales de l'ensemble des données des r
  
 ## Outils utilisés ⚡
 
-Pour le projet d'analyse de données des RH, les outils  suivants ont été utilisés :
+Pour le projet d'analyse de données des ressources humaines, les outils  suivants ont été utilisés :
 
-- SQL: Pour le nettoyage des données et les requetes pour l'analyse 
-- Power BI : Pour la visualisation des données.
+- SQL: Pour le nettoyage des données et les requêtes pour l'analyse 
+- Power BI : pour la visualisation des données.
 
-Les données sont calculées grace à des requetes sql(cte, temp table, sous requetes ) puis exporter en fichier csv pour etre visualiser grace à Power Bi.
+Les données sont calculées grâce à des requêtes sql(cte, temp table, sous requêtes ) puis exporter en fichier csv pour être visualiser grâce à Power Bi.
 
-NB: Pas d'utilisation de fonctions DAX pour ce projet.
+NB: pas d'utilisation de fonctions DAX pour ce projet.
+
 
 
 ## Résumé des résultats
