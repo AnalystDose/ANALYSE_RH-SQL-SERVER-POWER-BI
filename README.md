@@ -1,2 +1,2 @@
 # ANALYSE_RH-SQL-SERVER-POWER-BI
-Repo des codes du projet d'analyse des ressources humaines avec sql server et Power bi pour la visualisation
+![Capture d'écran 2024-06-03 224653](https://github.com/AnalystDose/ANALYSE_RH-SQL-SERVER-POWER-BI/assets/169387833/4c6947e6-e5e5-4f5d-bb5f-1b4535173930)
